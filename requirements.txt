@@ -103,3 +103,4 @@ Werkzeug==2.2.2
 whitenoise==6.2.0
 wrapt==1.14.1
 zope.interface==5.4.0
+python==3.7.14
